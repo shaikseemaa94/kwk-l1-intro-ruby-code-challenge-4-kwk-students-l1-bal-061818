@@ -16,4 +16,4 @@ coins.each do |koin, amount|
 
 puts finalCoins
 end
-least_coins(20)
+least_coins(100)
